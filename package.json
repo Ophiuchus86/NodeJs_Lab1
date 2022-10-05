@@ -1,0 +1,28 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest app.test.js"
+  },
+  "author": "Korobko Dmytro",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.1.2",
+    "supertest": "^6.3.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ophiuchus86/NodeJs_Lab1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ophiuchus86/NodeJs_Lab1/issues"
+  },
+  "homepage": "https://github.com/Ophiuchus86/NodeJs_Lab1#readme",
+  "description": ""
+}
